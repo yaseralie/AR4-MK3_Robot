@@ -3,9 +3,9 @@ This project shows the wiring from driver to Arduino Uno for the AR4 MK3 robotic
 
 ## Wiring Diagram
 ### Driver to Arduino Uno
-![Wiring Diagram Driver](images/Driver to Arduino.jpg)
+![Wiring Diagram Driver](images/Driver to Arduino.JPG)
 ### Joystick to Arduino Uno
-![Wiring Diagram Joystick](images/Joystick to Arduino.jpg)
+![Wiring Diagram Joystick](images/Joystick to Arduino.JPG)
 ### DIP Switch Setttings
 ![DIP Switch Setting](images/JDIP_Switch.jpg)
 
