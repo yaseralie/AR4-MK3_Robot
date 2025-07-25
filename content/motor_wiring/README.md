@@ -9,7 +9,7 @@ This project shows the wiring from motor to driver for the AR4 MK3 robotic arm.
 ### J3 Motor
 ![Wiring Diagram J3 Motor](images/J3.jpg)
 ### J4 Motor
-![Wiring Diagram J4 Motor](images/J4.jpg)
+![Wiring Diagram J5 Motor](images/J4.jpg)
 ### J5 Motor
 ![Wiring Diagram J5 Motor](images/J5.jpg)
 ### J6 Motor
