@@ -14,6 +14,8 @@ This project shows the wiring from motor to driver for the AR4 MK3 robotic arm.
 ![Wiring Diagram J5 Motor](images/J5.jpg)
 ### J6 Motor
 ![Wiring Diagram J6 Motor](images/J6.jpg)
+### Teensy 4.1 Detail Wiring
+![Wiring Teensy 4.1](images/Teensy_Wiring.jpg)
 
 ### Youtube Reference
 <p align="center">
