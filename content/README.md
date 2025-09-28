@@ -30,3 +30,12 @@ Click the image above to watch the video.
   </a>
 </p>
 Click the image above to watch the video.
+
+#### Build AR4 MK3 Arm Robot - Part 4: Wiring Teensy 4.1
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lhZaq3fW61Q" target="_blank">
+    <img src="https://img.youtube.com/vi/lhZaq3fW61Q/0.jpg" alt="YouTube Video Thumbnail" width="480" />
+  </a>
+</p>
+Click the image above to watch the video.
+
